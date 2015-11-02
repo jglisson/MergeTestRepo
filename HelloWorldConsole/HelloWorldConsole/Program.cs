@@ -10,7 +10,7 @@ namespace HelloWorldConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world from JohnDevBranch2!");
+            Console.WriteLine("Hello world from JohnDevBranch! Making a new change...");
             Console.ReadLine();
         }
     }
