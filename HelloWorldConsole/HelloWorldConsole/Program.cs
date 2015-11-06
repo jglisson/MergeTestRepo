@@ -10,7 +10,7 @@ namespace HelloWorldConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world from jgchange1!");
+            Console.WriteLine("Hello world from jgchange2!");
             Console.ReadLine();
         }
     }
