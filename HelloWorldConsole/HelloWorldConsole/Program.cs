@@ -11,7 +11,7 @@ namespace HelloWorldConsole
         static void Main(string[] args)
         {
             Class1 var = new Class1();
-            var.Argument1 = "Hello world from jg-develop Class1...my second change!";
+            var.Argument1 = "Hello world from jg-develop Class1...another change to merge!";
 
             Console.WriteLine(var.Argument1);
             Console.ReadLine();
