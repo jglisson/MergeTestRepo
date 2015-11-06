@@ -8,6 +8,6 @@ namespace HelloWorldConsole
 {
     class Class1
     {
-        public string MyProperty { get; set; }
+        public string Argument1 { get; set; }
     }
 }
